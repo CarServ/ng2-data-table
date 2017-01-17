@@ -12,5 +12,5 @@ import {CommonModule} from "@angular/common";
     declarations: [BootstrapPaginator, DataTable, DefaultSorter, Paginator, RowSelector, RowSelectorHead],
     exports: [BootstrapPaginator, DataTable, DefaultSorter, Paginator, RowSelector, RowSelectorHead]
 })
-export class DataTableModule {
+export declare class DataTableModule {
 }
